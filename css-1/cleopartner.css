@@ -1,0 +1,1228 @@
+.nav-text {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.133em;
+    line-height: 129.19%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.nav-text-1 {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.133em;
+    line-height: 129.19%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.navBar {
+    margin-left: 7%;
+    padding: 0.7rem;
+}
+
+.logo {
+    width: 3.5rem;
+    margin-right: 1rem;
+}
+
+.flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.margin-flex {
+    margin-left: 4vw;
+}
+
+.margin-text {
+    margin-right: 1.5rem;
+}
+
+.fullscreen-bg {
+    overflow: hidden;
+    z-index: -100;
+    position: relative;
+    width: 100%;
+    padding-top: 50%;
+}
+
+.fullscreen-bg__video {
+    -webkit-filter: brightness(65%);
+    filter: brightness(65%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 4;
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 129.19%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 35vh;
+}
+
+.txt {
+    font-size: 1.5rem;
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.txt-1 {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.813rem;
+}
+
+.button-text {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: bold;
+    font-size: 1.5em;
+    margin-right: 4.5rem;
+}
+
+.know {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.3em;
+    font-size: 1.8em;
+}
+
+.know-1 {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.3em;
+    font-size: 1.8em;
+}
+
+.sec-bg {
+    background-image: url("../img/Rectangle62.png");
+    background-color: rgb(61, 61, 61);
+    height: 180vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.iphone {
+    max-width: 100%;
+    height: auto;
+}
+
+.about {
+    margin-top: 15rem;
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    line-height: 129.19%;
+    margin-bottom: 2rem;
+}
+
+.about-1 {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 31px;
+    margin-bottom: 1.5rem;
+}
+
+.about-2 {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 118.75%;
+    opacity: 0.6;
+}
+
+.margin-t {
+    margin-top: 10rem;
+}
+
+.span {
+    margin-left: 3.4rem;
+}
+
+.list-text {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 125.00%;
+    opacity: 0.9;
+}
+
+.button-text-1 {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 157.4%;
+    margin-right: 2rem;
+}
+
+.mac {
+    width: 41vw;
+    height: 50vh;
+}
+
+.map {
+    position: absolute;
+    left: 836px;
+    top: 1455px;
+}
+
+.mac-logo {
+    position: absolute;
+    left: 77%;
+    right: 25.21%;
+    top: 1757px;
+    bottom: 66.99%;
+}
+
+.advantage-bg {
+    background-image: url("../img/advantages.png");
+    background-color: rgb(44, 44, 44);
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.advantage-txt {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 129.19%;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.img {
+    background-image: url("../img/Rectangle40.png");
+    background-position: center;
+    background-size: cover;
+    width: 75vw;
+    height: 60vh;
+    -webkit-transform: translateX(4rem);
+    -ms-transform: translateX(4rem);
+    transform: translateX(4rem);
+    border-radius: 2rem;
+}
+
+.badge {
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+.badge-1 {
+    margin-left: 5rem;
+    margin-top: 0.5rem;
+}
+
+.badge-2 {
+    margin-left: 7rem;
+    margin-top: 0.5rem;
+}
+
+.badge-3 {
+    margin-left: 6.5rem;
+    margin-top: 0.5rem;
+}
+
+.icon-txt {
+    font-family: 'RF Dewi';
+}
+
+
+.fb-bg {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(64, 64, 64, 0.5)), to(rgba(0, 0, 0, 0))), url("../img/fb.png");
+    background-image: -o-linear-gradient(top, rgba(64, 64, 64, 0.5) 0%, rgba(0, 0, 0, 0) 100%), url("../img/fb.png");
+    background-image: linear-gradient(180deg, rgba(64, 64, 64, 0.5) 0%, rgba(0, 0, 0, 0) 100%), url("../img/fb.png");
+    background-color: rgb(26, 26, 26);
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.img-1 {
+    background-image: url("../img/Rectangle39.png");
+    background-position: center;
+    background-size: cover;
+    width: 74.8vw;
+    height: 59.8vh;
+    border-radius: 3.5em;
+    -webkit-transform: translateX(4rem);
+    -ms-transform: translateX(4rem);
+    transform: translateX(4rem);
+}
+
+.text-fb {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 131%;
+    -webkit-transform: translateX(-6rem) translateY(4rem);
+    -ms-transform: translateX(-6rem) translateY(4rem);
+    transform: translateX(-6rem) translateY(4rem);
+}
+
+
+.yuri {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.125em;
+}
+
+.driver {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    opacity: 0.6;
+    -webkit-transform: translateY(-0.9rem);
+    -ms-transform: translateY(-0.9rem);
+    transform: translateY(-0.9rem);
+}
+
+.buttons {
+    -webkit-transform: translateX(5rem);
+    -ms-transform: translateX(5rem);
+    transform: translateX(5rem);
+}
+
+.none {
+    display: none;
+}
+
+.quotes-1 {
+    position: absolute;
+    left: 320px;
+    top: 50px;
+}
+
+.quotes-2 {
+    position: absolute;
+    left: 460px;
+    bottom: 100px;
+}
+
+.req {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(64, 64, 64, 0.5)), to(rgba(0, 0, 0, 0))), url("../img/image262.png");
+    background-image: -o-linear-gradient(top, rgba(64, 64, 64, 0.5) 0%, rgba(0, 0, 0, 0) 100%), url("../img/image262.png");
+    background-image: linear-gradient(180deg, rgba(64, 64, 64, 0.5) 0%, rgba(0, 0, 0, 0) 100%), url("../img/image262.png");
+    background-color: rgba(59, 59, 59, 0.986);
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.earth {
+    position: absolute;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -webkit-animation: rotate 3s linear infinite;
+    animation: rotate 3s linear infinite;
+}
+
+@-webkit-keyframes rotate {
+    from {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rotate {
+    from {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.car {
+    max-width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.light-1 {
+    position: absolute;
+    z-index: 2;
+    left: 31.5rem;
+    top: 8.5rem;
+    -webkit-animation: blink-animation-1 .8s infinite;
+    animation: blink-animation-1 .8s infinite;
+}
+
+@-webkit-keyframes blink-animation-1 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes blink-animation-1 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.light-2 {
+    position: absolute;
+    z-index: 3;
+    left: 19.3rem;
+    top: 8rem;
+    -webkit-animation: blink-animation-2 .8s infinite;
+    animation: blink-animation-2 .8s infinite;
+}
+
+@-webkit-keyframes blink-animation-2 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes blink-animation-2 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.req-txt {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+.car-list {
+    margin-right: 3.5rem;
+}
+
+.car-list-1 {
+    margin-left: 4.5rem;
+}
+
+.custom-form {
+    background-image: url("../img/formobile.png");
+    -webkit-filter: brightness(85%);
+    filter: brightness(85%);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+}
+
+.join {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    line-height: 2.688rem;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.join-margin {
+    padding-top: 7rem;
+}
+
+.custom-input {
+    background: transparent;
+    border: 0;
+    background-color: rgba(0, 0, 0, 0.61);
+    font-family: "RF Dewi Expanded";
+    font-size: 1rem;
+}
+
+.form-image {
+    background: url("../icons/Frame.svg") no-repeat;
+    background-position: 1rem;
+    background-size: 1.2rem;
+    background-color: rgba(0, 0, 0, 0.61);
+}
+
+.join-1 {
+    font-weight: 600;
+    opacity: 0.7;
+}
+
+.button-text-2 {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: bold;
+    width: 110%;
+    padding: .5rem 2rem;
+    font-size: 1rem;
+    background: rgb(241, 241, 241);
+}
+
+.carta {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(30, 30, 30, 0.76)), to(#000000)), url("../img/image262.png");
+    background-image: -o-linear-gradient(top, rgba(30, 30, 30, 0.76) 0%, #000000 100%), url("../img/image262.png");
+    background-image: linear-gradient(180deg, rgba(30, 30, 30, 0.76) 0%, #000000 100%), url("../img/image262.png");
+    background-color: rgb(39, 39, 39);
+    height: 97vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.carta-txt {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 129.19%;
+    text-align: center;
+    margin-top: 6rem;
+    margin-bottom: 4rem;
+}
+
+.carta-img {
+    width: 100%;
+    height: 100%;
+}
+
+.footer-img {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.76)), to(#000000)), url("../img/Rectangle63.png");
+    background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.76) 0%, #000000 100%), url("../img/Rectangle63.png");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.76) 0%, #000000 100%), url("../img/Rectangle63.png");
+    background-color: rgb(0, 0, 0);
+    height: 55vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    opacity: 0.9;
+}
+
+.footer-txt {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+
+.footer-txt-1 {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.9rem;
+    opacity: 0.4;
+    text-align: center;
+}
+
+.number {
+    font-family: 'RF Dewi Expanded', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+
+.number-name {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    opacity: 0.4;
+}
+
+.footer-bg {
+    background-image: url("../img/Rectangle71.png");
+    height: 45vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.txt-foot {
+    font-family: 'RF', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.125rem;
+}
+
+.picture {
+    position: relative;
+    bottom: 3.438rem;
+}
+
+.politica {
+    font-family: 'RF Dewi', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    opacity: 0.4;
+}
+
+.cleo {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 5rem;
+}
+
+.cleo-1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 37rem;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+    color: white;
+}
+
+a:-moz-any-link {
+    text-decoration: none;
+    color: white;
+}
+
+a:any-link {
+    text-decoration: none;
+    color: white;
+}
+
+@media screen and (max-width: 1080px) and (orientation: landscape) {
+    .overlay {
+        margin-top: 20vh;
+        line-height: 100%;
+    }
+
+    .about {
+        margin-top: 2rem;
+    }
+
+    .margin-t {
+        margin-top: 3rem;
+    }
+
+    .sec-bg {
+        height: 210vh;
+    }
+
+    .mac {
+        width: 40vw;
+        height: 30vh;
+        margin-left: 1rem;
+    }
+
+    .map {
+        left: 8.3rem;
+        top: 118.8rem;
+        height: 25vh;
+        width: 32vw;
+    }
+
+    .mac-logo {
+        left: 18rem;
+        top: 131.6rem;
+    }
+
+    .img-1 {
+        height: 50vh;
+    }
+
+    .fb-bg {
+        height: 80vh;
+    }
+
+    .text-fb {
+        -webkit-transform: translateX(-4rem) translateY(3rem);
+        -ms-transform: translateX(-4rem) translateY(3rem);
+        transform: translateX(-4rem) translateY(3rem);
+    }
+
+    .quotes-1 {
+        left: 19rem;
+        top: 2rem;
+    }
+
+    .quotes-2 {
+        left: 25rem;
+    }
+
+    .req {
+        height: 110vh;
+    }
+
+    .car-list-1 {
+        margin-left: 9.6em;
+    }
+
+    .earth {
+        left: 15rem;
+    }
+
+    .car {
+        left: 11rem;
+    }
+
+    .light-1 {
+        top: 9.5rem;
+        left: 46rem;
+    }
+
+    .light-2 {
+        left: 32.5rem;
+        top: 9rem;
+    }
+
+    .button-text-2 {
+        width: 76%;
+        margin-left: 8rem;
+    }
+
+    .custom-input {
+        margin-left: 8rem;
+    }
+
+    .join-1,
+    .join {
+        text-align: center;
+    }
+
+    .carta {
+        height: 71vh;
+    }
+
+    .footer-bg {
+        height: 70vh;
+    }
+
+    .picture {
+        top: 1rem;
+        right: 21rem;
+    }
+
+    .cleo {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .cleo-1 {
+        margin-top: 2rem;
+        -webkit-transform: translateX(20rem);
+        -ms-transform: translateX(20rem);
+        transform: translateX(20rem);
+    }
+
+    .politica {
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
+}
+
+@media screen and (max-width: 1080px) and (orientation: portrait) {
+    .overlay {
+        margin-top: 10vh;
+        line-height: 100%;
+    }
+
+    .fullscreen-bg {
+        padding-top: 55%;
+    }
+
+    .about {
+        margin-top: 2rem;
+    }
+
+    .margin-t {
+        margin-top: 3rem;
+    }
+
+    .sec-bg {
+        height: 160vh;
+    }
+
+    .mac {
+        width: 50vw;
+        height: 22vh;
+        margin-left: 1rem;
+    }
+
+    .map {
+        left: 7.21rem;
+        top: 114.2rem;
+        height: 18.5vh;
+        width: 40vw;
+    }
+
+    .mac-logo {
+        left: 16rem;
+        top: 127rem;
+    }
+
+    .advantage-bg {
+        height: 80vh;
+    }
+
+    .img-1 {
+        height: 55vh;
+    }
+
+    .fb-bg {
+        height: 80vh;
+    }
+
+    .text-fb {
+        -webkit-transform: translateX(-2rem) translateY(3rem);
+        -ms-transform: translateX(-2rem) translateY(3rem);
+        transform: translateX(-2rem) translateY(3rem);
+    }
+
+    .quotes-1,
+    .quotes-2 {
+        display: none;
+    }
+
+    .req {
+        height: 80vh;
+    }
+
+    .car-list-1 {
+        margin-left: 7.8rem;
+    }
+
+    .earth {
+        left: 10rem;
+    }
+
+    .car {
+        left: 7rem;
+    }
+
+    .light-1 {
+        top: 9rem;
+        left: 28.5rem;
+    }
+
+    .light-2 {
+        left: 42rem;
+        top: 9rem;
+    }
+
+    .button-text-2 {
+        width: 76%;
+        margin-left: 8rem;
+    }
+
+    .custom-input {
+        margin-left: 15rem;
+    }
+
+    .join {
+        text-align: center;
+    }
+
+    .join-1 {
+        opacity: 0.9;
+        text-align: center;
+    }
+
+    .carta {
+        height: 44.6vh;
+    }
+
+    .footer-bg {
+        height: 55vh;
+    }
+
+    .picture {
+        top: 1rem;
+        right: 14rem;
+    }
+
+    .cleo {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .cleo-1 {
+        margin-top: 2rem;
+        -webkit-transform: translateX(12rem);
+        -ms-transform: translateX(12rem);
+        transform: translateX(12rem);
+    }
+
+    .politica {
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .fullscreen-bg {
+        background: url("../img/formobile.png") 50% 50% no-repeat;
+        background-size: cover;
+        height: 70vh;
+    }
+
+    .overlay {
+        margin-top: 20vh;
+        line-height: 70%;
+    }
+
+    .txt {
+        font-size: 14px;
+    }
+
+    .txt-1 {
+        font-size: 23px;
+
+    }
+
+    .know {
+        margin-right: 2rem;
+        margin-top: 1rem;
+    }
+
+    .button-text {
+        margin-left: 2.5rem;
+    }
+
+    .fullscreen-bg__video {
+        display: none;
+    }
+
+    .about {
+        margin-top: 0;
+    }
+
+    .margin-t {
+        margin-top: 3rem;
+    }
+
+    br {
+        display: none;
+    }
+
+    .span {
+        margin-left: 0;
+    }
+
+
+    .sec-bg {
+        height: 190vh;
+    }
+
+    .mac {
+        width: 90vw;
+        height: 25vh;
+        margin-left: 1rem;
+    }
+
+    .map {
+        left: 4.2rem;
+        top: 134rem;
+        height: 21vh;
+        width: 72vw;
+    }
+
+    .mac-logo {
+        left: 12.5rem;
+        top: 146.5rem;
+    }
+
+    .text-fb {
+        -webkit-transform: translateY(-2rem) translateX(0);
+        -ms-transform: translateY(-2rem) translateX(0);
+        transform: translateY(-2rem) translateX(0);
+    }
+
+    .img-1 {
+        height: 90vh;
+    }
+
+    .buttons {
+        display: none;
+    }
+
+    .none {
+        display: block;
+    }
+
+    .quotes-1,
+    .quotes-2 {
+        display: none;
+    }
+
+    .fb-bg {
+        height: 110vh;
+    }
+
+    .icon-txt {
+        font-size: 15px;
+    }
+
+    .img {
+        -webkit-transform: translateX(2rem);
+        -ms-transform: translateX(2rem);
+        transform: translateX(2rem);
+        width: 85vw;
+        height: 70vh;
+    }
+
+    .light-1 {
+        top: 6.5rem;
+        left: 14rem;
+    }
+
+    .light-2 {
+        top: 7rem;
+        left: 23.2rem;
+    }
+
+    .req {
+        height: 85vh;
+    }
+
+    .car-list {
+        margin-left: 1.7rem;
+    }
+
+    .car-list-1 {
+        margin-left: 3rem;
+    }
+
+    .earth {
+        width: 100%;
+        height: 100%;
+        left: -3rem;
+    }
+
+    .car {
+        left: 0rem;
+        top: 1rem;
+    }
+
+    .appStore {
+        width: 40%;
+        height: 60%;
+    }
+
+    .googlePlay {
+        width: 40%;
+        height: 60%;
+    }
+
+    .join {
+        font-size: 2rem;
+    }
+
+    .custom-form {
+        height: 65vh;
+    }
+
+    .button-text-2 {
+        width: 100%;
+        margin-left: 0rem;
+    }
+
+    .custom-input {
+        width: 100%;
+        margin-left: 0rem;
+    }
+
+    .join-margin {
+        padding-top: 3rem;
+    }
+
+    .carta {
+        height: 40vh;
+    }
+
+    .footer-img {
+        height: 65vh;
+    }
+
+    .picture {
+        bottom: 0.313rem;
+        right: 3.750rem;
+    }
+
+    .footer-bg {
+        height: 60vh;
+    }
+
+    .cleo-1 {
+        -webkit-transform: translateX(2rem);
+        -ms-transform: translateX(2rem);
+        transform: translateX(2rem);
+    }
+
+    .cleo {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+    }
+
+    .politica {
+        margin-top: 1rem;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+    .sec-bg {
+        height: 240vh;
+    }
+
+
+    .advantage-bg {
+        height: 95vh;
+    }
+
+    .img {
+        width: 93vw;
+        -webkit-transform: translateX(1rem);
+        -ms-transform: translateX(1rem);
+        transform: translateX(1rem);
+    }
+
+    .fb-bg {
+        height: 135vh;
+    }
+
+    .filonov {
+        width: 55vw;
+        height: 30vh;
+    }
+
+    .text-fb {
+        -webkit-transform: translateY(0rem);
+        -ms-transform: translateY(0rem);
+        transform: translateY(0rem);
+    }
+
+    .img-1 {
+        height: 111vh;
+        -webkit-transform: translateX(3rem);
+        -ms-transform: translateX(3rem);
+        transform: translateX(3rem);
+    }
+
+    .req {
+        height: 100vh;
+    }
+
+    .custom-form {
+        height: 90vh;
+    }
+
+    .carta {
+        height: 46.2vh;
+    }
+
+    .footer-img {
+        height: 90vh;
+    }
+
+    .footer-bg {
+        height: 80vh;
+    }
+
+    .map {
+        left: 3.8rem;
+        top: 128.5rem;
+        height: 21vh;
+        width: 72vw;
+    }
+
+    .mac-logo {
+        left: 10.5rem;
+        top: 138.7rem;
+    }
+
+    .light-1 {
+        top: 5.5rem;
+        left: 11.5rem;
+    }
+
+    .light-2 {
+        top: 5.9rem;
+        left: 19.2rem;
+    }
+
+    .cleo-1 {
+        -webkit-transform: translateX(-1rem);
+        -ms-transform: translateX(-1rem);
+        transform: translateX(-1rem);
+    }
+
+    .earth {
+        width: 100%;
+        height: 100%;
+        left: -3rem;
+    }
+}
+
+
+@font-face {
+    font-family: 'RF Dewi';
+    src: url(../fonts/RFDewiCondensed-Regular.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'RF Dewi Expanded';
+    src: url(../fonts/RFDewiExpanded-Bold.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
